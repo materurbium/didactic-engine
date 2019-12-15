@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">Edit this page</a>
+<a href="{{site.github.repository_url}}/{{page.path}}">Edit this page</a>
 
 You can use the [editor on GitHub](https://github.com/materurbium/didactic-engine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
